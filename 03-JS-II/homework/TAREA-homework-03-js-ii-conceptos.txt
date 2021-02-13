@@ -1,0 +1,17 @@
+`for`:
+
+La declaración `for`, es un tipo de bucle, que se encarga, a partir de una variable asignada (comunmente i), y una condición, de iterar / aumentar (O repetir), su valor actual + 1, mientras se cumpla la condición.
+
+Operadores lógicos (`&&`, `||`, `!`):
+
+Se encargan de, en una comparación, determinar si se va a ejecutar dicha condición, a través de ciertas reglas:
+
+Para `&&` (Escrito como '(a && b)', Naturalmente entendido como 'a AND b'): Las expresiones al compararse mediante este operador, si o si, ambas tienen que ser ciertas para que el retorno sea 'true', sino, devolverá 'false'.
+
+Para `||` (Escrito como 'a || b', Naturalmente entendido como '(a OR b)'):
+
+Las expresiones al compararse mediante este operador, solamente una de ellas tiene que ser cierta para que el retorno sea 'true', si ninguna es cierta, devolverá 'false'.
+
+Para `!` (Escrito como 'a ! b', Naturalmente entendido como '(a NOT b)'):
+
+Las expresiones al compararse mediante este operador, el valor booleano que realmente ejecute esta comparación, la comparación afirmará ser el contrario del mismo, es decir, de ser el valor devuelto 'true', pasará a ser 'false', por lo que el código no se ejecutará.
