@@ -1,0 +1,28 @@
+Variables: 
+
+Son formas de almacenar datos para utilizar posteriormente, conteniendo valores de diferentes tipos.
+
+Strings: 
+
+Es un tipo de valor que almacena texto en una variable, donde el contenido es escrito dentro de comillas simples o dobles.
+
+Funciones:
+
+Las funciones son un tipo de objeto callable o invocable, donde se representan por la palabra clave function, seguido de un nombre personalizado que describa esa función, luego de paréntisis de apertura y cierre, y finalmente seguido de corchetes, con su respectiva apertura y cierre también, donde se escribirá el código a ejecutar.
+
+Argumentos: 
+
+Los argumentos se escriben dentro de los paréntesis de la función a llamar, son variables, que luego al ser llamada la función, pueden tomar el valor que se le quiera dar reemplazando el lugar de la variable por cualquier tipo de valor almacenable. Se pueden agregar más argumentos de la misma forma, pero separando cada valor del otro mediante una coma.
+
+Return:
+
+La declaración return se encarga de finalizar la ejecución de una función, devolviendo un valor especificado, al ser llamada dicha función.
+
+Declaraciones If:
+
+Las declaraciones If se utilizan como flujo de control para verificar si lo que se está declarando dentro de la función es true, deteniendo la ejecución y devolviendo el valor si es que así lo fue, y avanzando en el caso contrario de que no lo fuese.
+
+Valores Booleanos:
+
+Los valores booleanos se caracterizan especialmente por tomar dos opciones, una verdadera (true), o una falsa (false), que se usan para significar verdadero o falso, activado o desactivado.
+
